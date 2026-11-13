@@ -1,0 +1,56 @@
+{
+"name": "Little Ouseburn",
+"title": "Little Ouseburn Drive",
+"spawn": [
+195.69,
+1.55
+],
+"spawnRoad": "Main Street",
+"teleports": [
+[
+"Village",
+195.69,
+1.55,
+"Main Street"
+],
+[
+"Church",
+383.51,
+-385.17,
+"Church Lane"
+],
+[
+"Mausoleum",
+355.11,
+-369.73,
+"Church Lane"
+],
+[
+"Moat Hall",
+347.0,
+-245.0,
+"Church Lane"
+],
+[
+"Bridge",
+478.0,
+-381.0,
+"B6265"
+],
+[
+"Kirby Hall Farm",
+470.0,
+177.0,
+null
+],
+[
+"Broadlands",
+-173.0,
+34.0,
+"Main Street"
+]
+],
+"build": "20261113132306",
+"regions": [],
+"regionTeleports": {}
+}
