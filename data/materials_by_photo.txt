@@ -1,0 +1,11 @@
+# Wall material per listed building, classified by eye from its Wikimedia Commons photo (via Wikidata P18).
+# <NHLE list entry> <code>
+1150291 S:b8b0a0
+1150292 S:b9b09c
+1150296 S:c4b597
+1190707 X
+1293585 B
+1293613 S:d6cdb5
+1293661 X
+1315400 W
+1315437 X

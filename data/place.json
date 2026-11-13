@@ -1,0 +1,79 @@
+{
+ "name": "Little Ouseburn",
+ "title": "Little Ouseburn Drive",
+ "display": "Little Ouseburn, North Yorkshire, York and North Yorkshire, England, United Kingdom",
+ "lonlat": [
+  -1.3170865,
+  54.04087
+ ],
+ "centre": [
+  444819.9,
+  460757.7
+ ],
+ "tile": [
+  444100,
+  460000,
+  445600,
+  461500
+ ],
+ "origin": [
+  444850.0,
+  460750.0
+ ],
+ "bbox_ll": "54.03349,-1.32869,54.04810,-1.30456",
+ "os_square": [
+  "SE"
+ ],
+ "spawn": {
+  "roads": [
+   "Main Street",
+   "Church Lane"
+  ],
+  "label": "Village"
+ },
+ "teleports": [
+  [
+   "Church",
+   "Holy Trinity",
+   "Church Lane"
+  ],
+  [
+   "Mausoleum",
+   "Thompson Mausoleum",
+   "Church Lane"
+  ],
+  [
+   "Moat Hall",
+   [
+    445197,
+    460995
+   ],
+   "Church Lane"
+  ],
+  [
+   "Bridge",
+   [
+    445328,
+    461131
+   ],
+   "B6265"
+  ],
+  [
+   "Kirby Hall Farm",
+   [
+    445320,
+    460573
+   ],
+   null
+  ],
+  [
+   "Broadlands",
+   [
+    444677,
+    460716
+   ],
+   "Main Street"
+  ]
+ ],
+ "rural": true
+}
